@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomToggle">
+        <attr name="ctg_addLeftIcon" type="drawable" format="reference"/>
+        <attr name="ctg_addRightIcon"    format="reference" />
+        <attr name="ctg_addSlideBackgroundColor" format="color"/>
+        <attr name="ctg_addSlideColor"    format="color"/>
+        <attr name="ctg_addMagnification" format="integer"/>
+        <attr name="ctg_addAnimationTime" format="integer"/>
+        <attr name="ctg_addAnimationType" format="enum">
+            <enum name="jack_animation" value="0"/>
+            <enum name="phantom_animation" value="1"/>
+            <enum name="extra_animation" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
