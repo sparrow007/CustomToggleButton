@@ -1,4 +1,4 @@
-# CustomToggleButton
+# CustomToggleButton in Android
 This Project let you create the custom toggleButton with beautiful animation in a simplest way
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
