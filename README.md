@@ -4,6 +4,8 @@ This Project let you create the custom toggleButton with beautiful animation in 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-13%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=13)
 
+![togglelib](https://user-images.githubusercontent.com/22986571/30244134-a86b220c-95d5-11e7-90c8-7f42f1e2744f.gif)
+
 USAGE
 -----
 To make a Custom ToggleButton add CustomToggle in your layout XML and add CustomToggleButton library in your project or you can also grab it through Gradle:
