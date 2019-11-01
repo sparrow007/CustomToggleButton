@@ -270,7 +270,7 @@ public class CustomToggle extends View {
     }
 
     /* Interface for Checking which side of button  is enabled */
-    interface OnToggleClickListener {
+    public interface OnToggleClickListener {
         void onLefToggleEnabled(boolean enabled);
         void onRightToggleEnabled(boolean enabled);
     }
