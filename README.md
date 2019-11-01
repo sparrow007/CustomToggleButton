@@ -15,7 +15,7 @@ Gradle
 ```
 dependencies {
     ...
-   compile 'com.jackandphantom.android:customtogglebutton:1.0.0'
+   implementation 'com.jackandphantom.android:customtogglebutton:1.0.0'
 }
 ```
 XML
